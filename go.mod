@@ -1,4 +1,4 @@
-module suva.ch/suva-mitarbeiter
+module github.com/3n3a/go-gin-gonic-docker
 
 go 1.17
 
